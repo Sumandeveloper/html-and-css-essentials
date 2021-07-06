@@ -1,0 +1,37 @@
+.one{
+    /* height:300px; */
+    width:100%;
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.part1{
+    height:200px;
+    width:20%;
+    background-color: red;
+    display: inline-block;
+    margin-left: 4%;
+    /* margin-top: 50px; */
+}
+*{
+    margin: 0px;
+    /* padding: 0px; */
+}
+.two{
+    height: 300px;
+    width:100%;
+    background-color: blue;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    align-items:center;
+
+}
+.part2{
+    height:200px;
+    width:20%;
+    background-color: black;
+    
+}
